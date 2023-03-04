@@ -1,0 +1,77 @@
+ button.btn-home{
+    background-color: blue;
+    border-radius: 5px;
+    border: 2px solid red;
+}
+button.btn-home:hover{
+    background-color: yellow;
+}
+button.btn-home:active{
+    background-color: green;
+}
+button.btn-mountain{
+    background-color: aqua;
+    border-radius: 5px;
+    border: 2px solid red;
+}
+button.btn-mountain:hover{
+    background-color: orangered;
+}
+button.btn-mountain:active{
+    background-color: green;
+}
+button.btn-beach{
+    background-color: pink;
+    border-radius: 5px;
+    border: 2px solid red;
+
+}
+button.btn-beach:hover{
+    background-color: hotpink;
+}
+button.btn-beach:active{
+    background-color: green;
+}
+button.btn-birds{
+    background-color: yellow;
+    border-radius: 5px;
+    border: 2px solid red;
+
+}
+button.btn-birds:hover{
+    background-color: green;
+}
+button.btn-food{
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    border: 2px solid red;
+
+
+}
+button.btn-food:hover{
+    background-color: sienna;
+}
+#search-Term{
+    border: 1px solid red;
+    width: 25%;
+    background-color: skyblue;
+}
+#search-Term:active{
+    border: 3px solid yellow;
+}
+.btn-search{
+    background-color: green;
+    border-radius: 5px;
+
+}
+.btn-search:hover{
+    background-color: yellow;
+    border-radius: 5px;
+    
+}
+#root{
+    /* background-color: aqua; */
+    background-image: url("https://im.rediff.com/cricket/2023/jan/17kohli1.jpg?w=670&h=900");
+    width: 100%;
+    height: 100%;
+}
